@@ -1,0 +1,11 @@
+# Ignore MLflow outputs and Python caches
+mlruns/
+MLProject/model/
+MLProject/model.pkl
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+
